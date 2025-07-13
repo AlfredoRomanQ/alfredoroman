@@ -4,7 +4,7 @@ Bienvenido a mi perfil de GitHub. Estoy aprendiendo y practicando con servidores
 
 ### 🚀 Proyectos destacados
 
-- 🖥️ **[Servidor Proxmox personal](https://github.com/alfredoroman/proxmox-lab)**  
+- 🖥️ **[Servidor Proxmox personal](https://github.com/AlfredoRomanQ/proxmox-lab)**  
   Instalación de Proxmox, despliegue de máquina Windows accesible por RDP, servidor Debian con Wiki.js y seguridad SSH configurada.
 
 ### 🧰 Habilidades técnicas
