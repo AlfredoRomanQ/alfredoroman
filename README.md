@@ -17,7 +17,7 @@ Bienvenido a mi perfil de GitHub. Estoy aprendiendo y practicando con servidores
 ### 📫 Cómo contactarme
 
 - ✉️ Email: alfredoromanquesada97@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/alfredo-roman-quesada)
+- 💼 [LinkedIn][(www.linkedin.com/in/alfredo-roman-quesada](https://www.linkedin.com/in/alfredo-roman-quesada))
 
 ---
 
